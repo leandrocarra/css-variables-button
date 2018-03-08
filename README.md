@@ -1,6 +1,6 @@
 # Css Variables Button
 
-> Recently I saw this [site](https://getgrover.com/de-en/products/iphone-x-64gb) and I found interesting the effect that they applied in the button of purchase, after talking with some people I decided to bring here how it works.
+> Recently I saw this [site](https://getgrover.com/de-en/products/iphone-x-64gb) and I found interesting the effect that they applied in the purchase button. After talking with some people I decided to share/explain how it works
 
 ![](exampleButton.gif)
 
@@ -17,7 +17,7 @@
 ## Tracking the position
 
 #### JS
-Here we select the element and wait till the user moves his mouse across it, then calculate the position relative to the element and then we save the coordinates in CSS variables
+Here we select the element and wait for the user to hover the button. Then we calculate the position relative to the element and save the coordinates in CSS variables
 
 ```js
 document.querySelector('.button').onmousemove = (e) => {
@@ -37,9 +37,9 @@ Here the tip is, wrap the text inside a span to avoid that the gradient appears 
 
 Start with a width and height of 0px and bring it up to 400px when the user hovers the button. And set a transition to make it appear with a swoosh.
 
-Use the coordinates to follow the mouse
+Use the coordinates to follow the mouse.
 
-And then apply a radial-gradient to the background and use a closest-side circle. Closest-side fills the whole before without getting beyond it.
+Apply a radial-gradient to the background and use a closest-side circle. Closest-side fills the whole before without getting beyond it.
 
 #### CSS
 
@@ -82,4 +82,4 @@ And then apply a radial-gradient to the background and use a closest-side circle
 This is a simple way to apply this effect, you can use it for a lot of effects, like a menu, backgrounds etc.
 Basically if you will use hover, you can apply this.
 
-You can see the example [HERE](https://jsfiddle.net/leandrocarra/4k5gfktp/3/)
+You can see the example [HERE](https://jsfiddle.net/leandrocarra/4k5gfktp/3/).
