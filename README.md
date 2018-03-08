@@ -75,6 +75,7 @@ And then apply a radial-gradient to the background and use a closest-side circle
     --size: 400px;
   }
 }
+
 ```
 
 ## Tips
