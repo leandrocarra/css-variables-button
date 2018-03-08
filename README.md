@@ -1,5 +1,6 @@
-\# Css Variables Button
-\> Recently I saw this [site](https://getgrover.com/de-en/products/iphone-x-64gb) and I found interesting the effect that they applied in the botton of purchase, after talking with some people I decided to bring here how it works.
+# Css Variables Button
+
+> Recently I saw this [site](https://getgrover.com/de-en/products/iphone-x-64gb) and I found interesting the effect that they applied in the botton of purchase, after talking with some people I decided to bring here how it works.
 
 ![](button.gif)
 
