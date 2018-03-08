@@ -2,7 +2,7 @@
 
 > Recently I saw this [site](https://getgrover.com/de-en/products/iphone-x-64gb) and I found interesting the effect that they applied in the button of purchase, after talking with some people I decided to bring here how it works.
 
-![](button.gif)
+![](exampleButton.gif)
 
 ## The Template
 
@@ -82,4 +82,4 @@ And then apply a radial-gradient to the background and use a closest-side circle
 This is a simple way to apply this effect, you can use it for a lot of effects, like a menu, backgrounds etc.
 Basically if you will use hover, you can apply this.
 
-You can see the example [HERE](https://jsfiddle.net/leandrocarra/4k5gfktp/1/)
+You can see the example [HERE](https://jsfiddle.net/leandrocarra/4k5gfktp/3/)
