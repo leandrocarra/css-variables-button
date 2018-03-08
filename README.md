@@ -10,7 +10,7 @@
 
 ```html
 <button class="button">
-  <span>A great exemple of a Beautiful Button</span>
+  <span>A great example of a Beautiful Button</span>
 </button>
 ```
 
@@ -81,4 +81,4 @@ And then apply a radial-gradient to the background and use a closest-side circle
 This is a simple way to apply this effect, you can use it for a lot of effects, like a menu, backgrounds etc.
 Basically if you will use hover, you can apply this.
 
-You can see the exemple [HERE](https://jsfiddle.net/leandrocarra/4k5gfktp/1/)
+You can see the example [HERE](https://jsfiddle.net/leandrocarra/4k5gfktp/1/)
